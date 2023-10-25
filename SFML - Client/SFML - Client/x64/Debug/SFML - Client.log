@@ -1,0 +1,249 @@
+﻿  Client.cpp
+G:\VISUAL STUDIO\vs\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(253,42): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(266,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(266,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(275,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(275,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(284,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(284,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(293,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(293,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(302,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(302,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(311,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(311,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(320,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(320,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(329,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(329,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(338,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(338,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(347,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(347,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(355,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(355,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(365,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(365,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(374,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(374,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(383,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(383,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(393,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(393,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(402,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(402,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(411,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(411,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(420,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(420,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(429,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(429,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(438,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(438,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(447,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(447,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+sfml-graphics-s-d.lib(Font.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Font.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Glsl.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Glsl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(GLCheck.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(GLCheck.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Image.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Image.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(ImageLoader.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(ImageLoader.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(RenderTarget.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(RenderTarget.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(RenderWindow.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(RenderWindow.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Shader.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Shader.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Texture.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Texture.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Shape.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Shape.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(Text.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(Text.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(VertexArray.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(VertexArray.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-graphics-s-d.lib(RenderTextureImplFBO.obj) : warning LNK4099: "" PDB не найден с "sfml-graphics-s-d.lib(RenderTextureImplFBO.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(GlContext.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(GlContext.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(Joystick.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(Joystick.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(JoystickManager.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(JoystickManager.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(VideoMode.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(VideoMode.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(Window.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(Window.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(WindowBase.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(WindowBase.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(WindowImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(WindowImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(JoystickImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(JoystickImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(VideoModeImpl.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(VideoModeImpl.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(VulkanImplWin32.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(VulkanImplWin32.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(WindowImplWin32.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(WindowImplWin32.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-window-s-d.lib(WglContext.obj) : warning LNK4099: "" PDB не найден с "sfml-window-s-d.lib(WglContext.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-system-s-d.lib(String.obj) : warning LNK4099: "" PDB не найден с "sfml-system-s-d.lib(String.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-network-s-d.lib(Http.obj) : warning LNK4099: "" PDB не найден с "sfml-network-s-d.lib(Http.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-network-s-d.lib(IpAddress.obj) : warning LNK4099: "" PDB не найден с "sfml-network-s-d.lib(IpAddress.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-network-s-d.lib(Packet.obj) : warning LNK4099: "" PDB не найден с "sfml-network-s-d.lib(Packet.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-network-s-d.lib(TcpSocket.obj) : warning LNK4099: "" PDB не найден с "sfml-network-s-d.lib(TcpSocket.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+sfml-network-s-d.lib(UdpSocket.obj) : warning LNK4099: "" PDB не найден с "sfml-network-s-d.lib(UdpSocket.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  SFML - Client.vcxproj -> G:\Львовское Игра\Proj2\SFML - Client\x64\Debug\SFML - Client.exe
